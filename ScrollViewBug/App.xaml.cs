@@ -1,4 +1,4 @@
-﻿namespace CollectionViewScrollBug;
+﻿namespace ScrollViewBug;
 
 public partial class App : Application
 {

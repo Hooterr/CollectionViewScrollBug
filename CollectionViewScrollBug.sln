@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionViewScrollBug", "CollectionViewScrollBug\CollectionViewScrollBug.csproj", "{3CCA0FAA-D938-41A4-8AAB-F9678BDA9566}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollViewBug", "ScrollViewBug\ScrollViewBug.csproj", "{E4F18948-7EDE-40D8-93F8-FF3B2BD7153C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3CCA0FAA-D938-41A4-8AAB-F9678BDA9566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3CCA0FAA-D938-41A4-8AAB-F9678BDA9566}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3CCA0FAA-D938-41A4-8AAB-F9678BDA9566}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{3CCA0FAA-D938-41A4-8AAB-F9678BDA9566}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3CCA0FAA-D938-41A4-8AAB-F9678BDA9566}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3CCA0FAA-D938-41A4-8AAB-F9678BDA9566}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E4F18948-7EDE-40D8-93F8-FF3B2BD7153C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F18948-7EDE-40D8-93F8-FF3B2BD7153C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F18948-7EDE-40D8-93F8-FF3B2BD7153C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F18948-7EDE-40D8-93F8-FF3B2BD7153C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
